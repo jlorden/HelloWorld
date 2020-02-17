@@ -1,3 +1,4 @@
 Hello!
 This is challenging at first but takes some patience.
 We will learn how this applies to real world scenarios.
+Need to make sure you put quotations to the "message you are committing to GitHub.
