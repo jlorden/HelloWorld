@@ -1,2 +1,3 @@
 Hello!
 This is challenging at first but takes some patience.
+We will learn how this applies to real world scenarios.
